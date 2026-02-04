@@ -55,6 +55,7 @@ After completing this POC, the application will be accessible using a custom dom
 | Step 7 | Confirm Domain is Active | Login to Hostinger → **Domains** and confirm the domain status shows **Active**. Click **Manage** to proceed with DNS setup. |
 
 Note: Domain verification via email is mandatory. Without verification, DNS configuration and domain usage may not work properly. Here i am using Domain `gaganawasthi.online`
+
 ---
 ### 5. Create Hosted Zone in Route 53
 
