@@ -72,6 +72,8 @@ AWS will generate:
 - NS records
 - SOA record
 
+<img width="1488" height="325" alt="image" src="https://github.com/user-attachments/assets/7b2fa076-4343-4291-9f59-963d505ddce2" />
+
 ---
 ### 6. Update Nameservers in Domain Registrar
 
