@@ -143,6 +143,9 @@ curl http://localhost
 - Value: EC2 Public IP
 
 - TTL: 300
+- 
+<img width="1827" height="755" alt="image" src="https://github.com/user-attachments/assets/12cd390b-d53b-4b4c-bc4b-de4a6d683062" />
+
 
 #### WWW Subdomain (A Record)
 
