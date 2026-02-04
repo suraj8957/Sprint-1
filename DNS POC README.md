@@ -1,5 +1,11 @@
 ## POC: DNS(Domain Name System)
 
+## Document Details
+|     Author      |  Created on  | Version |  Pre Reviewer  | L0 Reviewer | L1 Reviewer | L2 Reviewer |
+|-----------------|--------------|---------|----------------|-------------|-------------|-------------|
+| Suraj Tripathi  |  21-01-2026  |  1.0    |                |             |             |             |
+
+
 ### 1. What is DNS
 DNS (Domain Name System) is the "phonebook of the internet," translating human-readable domain names (e.g., example.com) into machine-readable numerical IP addresses (e.g., 192.0.2.1). It eliminates the need to memorize complex IP addresses, allowing browsers to load internet resources by mapping names to specific server location
 
