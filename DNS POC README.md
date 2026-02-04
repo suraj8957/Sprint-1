@@ -19,6 +19,8 @@ DNS (Domain Name System) is the "phonebook of the internet," translating human-r
 - **TLD Server:** Handles the top-level domain (e.g., .com, .org).
 - **Authoritative Name Server:** The final step, providing the actual IP address for the domain.
 
+![1674789713761](https://github.com/user-attachments/assets/b8573728-542a-46d4-bdf7-f99175a06f17)
+
 ---
 ### 2. Overview
 
