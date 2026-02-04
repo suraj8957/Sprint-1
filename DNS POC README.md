@@ -64,7 +64,7 @@ Note: Domain verification via email is mandatory. Without verification, DNS conf
 3. Go to **Hosted Zones**
 4. Click **Create Hosted Zone**
 5. Enter:
-   - Domain name: `myappdemo.in`
+   - Domain name: `gaganawasthi.online`
    - Type: Public Hosted Zone
 6. Create hosted zone
 
@@ -156,6 +156,18 @@ curl http://localhost
 Save records.
 
 <img width="1811" height="769" alt="image" src="https://github.com/user-attachments/assets/c8a9e28e-484a-419d-aebd-a063013feb46" />
+
+#### AWS Route 53 Routing Policies
+
+| Routing Policy | One-Line Definition |
+|---------------|---------------------|
+| Simple Routing | Routes traffic to a single resource such as one IP address or one DNS record without any special logic. |
+| Weighted Routing | Distributes traffic across multiple resources based on assigned weight values. |
+| Geolocation Routing | Routes traffic based on the geographic location of the user making the request. |
+| Latency Routing | Routes traffic to the resource that provides the lowest network latency for the user. |
+| Failover Routing | Routes traffic to a primary resource and automatically fails over to a secondary resource if the primary becomes unhealthy. |
+| Multivalue Answer Routing | Returns multiple healthy IP addresses in response to a DNS query to improve availability. |
+
 
 ---
 ### 10. Configure Nginx for Domain
