@@ -116,10 +116,14 @@ Install Nginx:
 sudo apt update
 sudo apt install nginx -y
 ```
+<img width="1431" height="433" alt="image" src="https://github.com/user-attachments/assets/364665f0-14be-4b89-9955-72b7f77e296b" />
+
 Verify:
 ```bash
 curl http://localhost
 ```
+<img width="1109" height="94" alt="image" src="https://github.com/user-attachments/assets/9fd236b7-0141-41bd-ba9d-6e0db463649b" />
+
 
 ---
 ### 9. Create DNS Record in Route 53
