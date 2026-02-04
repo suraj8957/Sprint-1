@@ -159,23 +159,47 @@ Save records.
 ### 10. Configure Nginx for Domain
 Create config:
 ```bash
-sudo nano /etc/nginx/sites-available/myappdemo
+sudo mkdir -p /var/www/gaganawasthi.online
+```
+Create index file:
+```bash
+sudo nano /var/www/gaganawasthi.online/index.html
+```
+Add:
+```bash
+<h1>Domain is working: gaganawasthi.online</h1>
+```
+<img width="1299" height="76" alt="image" src="https://github.com/user-attachments/assets/c2b349d9-c77c-4a1d-81ab-38286f7b1161" />
+
+```bash
+Set permissions:
+```bash
+sudo chown -R www-data:www-data /var/www/gaganawasthi.online
+```
+#### Create separate Nginx config file
+
+```bash
+sudo nano /etc/nginx/sites-available/gaganawasthi.online
 ```
 ```bash
 server {
     listen 80;
-    server_name myappdemo.in www.myappdemo.in;
+    listen [::]:80;
+
+    server_name gaganawasthi.online www.gaganawasthi.online;
+
+    root /var/www/gaganawasthi.online;
+    index index.html;
 
     location / {
-        root /var/www/html;
-        index index.html;
+        try_files $uri $uri/ =404;
     }
 }
 
 ```
 Enable configuration:
 ```bash
-sudo ln -s /etc/nginx/sites-available/myappdemo /etc/nginx/sites-enabled/
+sudo ln -s /etc/nginx/sites-available/gaganawasthi.online /etc/nginx/sites-enabled/
 sudo nginx -t
 sudo systemctl reload nginx
 ```
