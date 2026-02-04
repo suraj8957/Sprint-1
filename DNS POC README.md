@@ -54,8 +54,7 @@ After completing this POC, the application will be accessible using a custom dom
 | Step 6 | Verify Domain Ownership | Open the verification email from Hostinger and click **Verify Email / Verify Domain**. This step is mandatory to avoid domain suspension. |
 | Step 7 | Confirm Domain is Active | Login to Hostinger → **Domains** and confirm the domain status shows **Active**. Click **Manage** to proceed with DNS setup. |
 
-Note: Domain verification via email is mandatory. Without verification, DNS configuration and domain usage may not work properly.
-
+Note: Domain verification via email is mandatory. Without verification, DNS configuration and domain usage may not work properly. Here i am using Domain `gaganawasthi.online`
 ---
 ### 5. Create Hosted Zone in Route 53
 
@@ -210,10 +209,17 @@ DNS check:
 ```bash
 nslookup myappdemo.in
 ```
+
+<img width="1539" height="206" alt="image" src="https://github.com/user-attachments/assets/a399949b-ae4b-45d9-9f3d-00a10dd28e34" />
+
+
 Browser test:
 ```bash
-http://myappdemo.in
+http://gaganawasthi.online
 ```
+
+<img width="1833" height="393" alt="image" src="https://github.com/user-attachments/assets/56bacdd6-442f-4a79-b107-fc54241a8cd5" />
+
 
 ---
 ### 12. POC Summary
