@@ -154,6 +154,8 @@ curl http://localhost
 
 Save records.
 
+<img width="1811" height="769" alt="image" src="https://github.com/user-attachments/assets/c8a9e28e-484a-419d-aebd-a063013feb46" />
+
 ---
 ### 10. Configure Nginx for Domain
 Create config:
