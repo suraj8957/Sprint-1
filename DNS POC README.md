@@ -82,6 +82,9 @@ AWS will generate:
 5. Paste them into Hostinger
 6. Save changes
 
+<img width="1887" height="793" alt="image" src="https://github.com/user-attachments/assets/c0cba4f8-4517-4855-a87a-7ef7e5e58274" />
+
+
  Nameserver propagation may take **30 minutes to 24 hours**
 
  ---
