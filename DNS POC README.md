@@ -191,7 +191,6 @@ Add:
 ```
 <img width="1299" height="76" alt="image" src="https://github.com/user-attachments/assets/c2b349d9-c77c-4a1d-81ab-38286f7b1161" />
 
-```bash
 Set permissions:
 ```bash
 sudo chown -R www-data:www-data /var/www/gaganawasthi.online
