@@ -119,6 +119,9 @@ Email address
 Accept Terms → Yes
 
 HTTP to HTTPS redirect → Yes
+<img width="1890" height="523" alt="image" src="https://github.com/user-attachments/assets/56ae5535-06aa-4f79-a544-5087da7c60bf" />
+<img width="1859" height="842" alt="image" src="https://github.com/user-attachments/assets/53d82558-92fd-4a4d-ba27-412bdf4ce46e" />
+
 #### What Certbot Does Automatically
 - Verifies domain ownership
 
