@@ -13,17 +13,17 @@
 ## Table of Contents
 ## Table of Contents
 1. [Introduction](#1-introduction)
-2. [What is GitOps](#what-is-gitops)
-3. [Why GitOps](#why-gitops)
-4. [Core GitOps Principles](#core-gitops-principles)
-5. [GitOps Workflow Types](#gitops-workflow-types)
-   - [Push-Based Workflow (Traditional CI/CD)](#push-based-workflow-traditional-ci-cd)
-   - [Pull-Based GitOps Workflow (Recommended)](#pull-based-gitops-workflow-recommended)
-6. [Workflow Comparison](#workflow-comparison)
-7. [Selected GitOps Strategy](#selected-gitops-strategy)
-8. [Conclusion](#conclusion)
-9. [Contact Information](#contact-information)
-10. [References](#references)
+2. [What is GitOps](#2-what-is-gitops)
+3. [Why GitOps](#3-why-gitops)
+4. [Core GitOps Principles](#4-core-gitops-principles)
+5. [GitOps Workflow Types](#5-gitops-workflow-types)
+   - [Push-Based Workflow (Traditional CI/CD)](#51-push-based-workflow-traditional-ci-cd)
+   - [Pull-Based GitOps Workflow (Recommended)](#52-pull-based-gitops-workflow-recommended)
+6. [Workflow Comparison](#6-workflow-comparison)
+7. [Selected GitOps Strategy](#7-selected-gitops-strategy)
+8. [Conclusion](#8-conclusion)
+9. [Contact Information](#9-contact-information)
+10. [References](#10-references)
 
 ---
 
