@@ -197,7 +197,7 @@ If no errors → Auto-renew is working.
 - https://letsencrypt.org/docs/
 
 - https://certbot.eff.org/
-- 
+
 ## Contact Information
 
 | Contact Type | Details                                                             |
