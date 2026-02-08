@@ -167,6 +167,8 @@ Test renewal:
 ```bash
 sudo certbot renew --dry-run
 ```
+<img width="1709" height="341" alt="image" src="https://github.com/user-attachments/assets/ebee9b45-75fe-4146-a166-d0c099db3326" />
+
 If no errors → Auto-renew is working.
 
 ---
