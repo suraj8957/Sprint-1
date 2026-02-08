@@ -12,7 +12,7 @@
 
 ## Table of Contents
 ## Table of Contents
-1. [Introduction](#introduction)
+1. [Introduction](#1-introduction)
 2. [What is GitOps](#what-is-gitops)
 3. [Why GitOps](#why-gitops)
 4. [Core GitOps Principles](#core-gitops-principles)
