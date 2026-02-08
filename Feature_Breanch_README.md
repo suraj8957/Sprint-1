@@ -9,7 +9,7 @@
 | Suraj Tripathi   | 2026-02-03 | 1.0     | 2026-02-03     |Annirudh     |Shreaya S    |Ashwani     |
 
 ---
-- [Feature Branch Workflow – Branching Strategy](#feature-branch-workflow--branching-strategy)
+## Index
 - [1. Introduction](#1-introduction)
 - [2. Why Feature Branch Workflow?](#2-why-feature-branch-workflow)
 - [3. What Is Feature Branch Workflow?](#3-what-is-feature-branch-workflow)
